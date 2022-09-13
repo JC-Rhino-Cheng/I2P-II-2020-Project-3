@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\user\onedrive - 清華大學\大一下\程設二\mini_project_3\my docs\for_vs\main.cpp(12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\user\onedrive - 清華大學\大一下\程設二\mini_project_3\my docs\for_vs\main.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\onedrive - 清華大學\大一下\程設二\mini_project_3\my docs\for_vs\main.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\onedrive - 清華大學\大一下\程設二\mini_project_3\my docs\for_vs\main.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\onedrive - 清華大學\大一下\程設二\mini_project_3\my docs\for_vs\main.cpp(173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.vcxproj -> C:\Users\User\OneDrive - 清華大學\大一下\程設二\Mini_Project_3\My Docs\for_VS\main\Debug\main.exe
